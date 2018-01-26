@@ -4,7 +4,7 @@ Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 master|[![Build Status](https://travis-ci.org/kiran1129/correct_cpp_hello.svg?branch=master)](https://travis-ci.org/kiran1129/correct_cpp_hello)|[![codecov.io](https://codecov.io/github/kiran1129/correct_cpp_hello/coverage.svg?branch=master)](https://codecov.io/github/kiran1129/correct_cpp_hello/branch/master)
 
-[Correct C++](https://github.com/kiran1129/correct_cpp) chapter 'Hello'.
+[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello'.
 
 ## Goal
 
@@ -25,7 +25,7 @@ Feel free to just copy-paste this code to `main.cpp`:
 int main() {}
 ```
 
-Note the `///`, which indicates a [Doxygen](https://github.com/kiran1129/cpp/blob/master/content/CppDoxygen.md) [documentation](https://github.com/kiran1129/cpp/blob/master/content/CppDocumentation.md) comment.
+Note the `///`, which indicates a [Doxygen](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDoxygen.md) [documentation](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDocumentation.md) comment.
 
 This is [how this course works](https://github.com/kiran1129/correct_cpp/blob/master/doc/how_this_course_works.md):
 
@@ -44,12 +44,12 @@ Your code must be correct, thus your code must:
  * compile cleanly at high warning levels [1,2] 
  * have [a low cyclomatic complexity](https://github.com/kiran1129/correct_cpp/blob/master/doc/lower_cyclomatic_complexity.md)
  * have [how a 100% code coverage](https://github.com/kiran1129/correct_cpp/blob/master/doc/get_100_percent_code_coverage.md)
- * have complete [documentation](https://github.com/kiran1129/cpp/blob/master/content/CppDocumentation.md) [4]
+ * have complete [documentation](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDocumentation.md) [4]
 
 ## External links
 
  * [Download the Qt Creator file `main.pro`](https://raw.githubusercontent.com/kiran1129/correct_cpp/master/shared/main.pro)
- * [Video how to do this chapter (mp4)](http://www.kiran1129.nl/correct_cpp_hello.mp4)
+ * [Video how to do this chapter (mp4)](http://www.richelbilderbeek.nl/correct_cpp_hello.mp4)
 
 ## References
 
