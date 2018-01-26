@@ -1,1 +1,4 @@
-main() {}
+```c++
+/// This program does exactly nothing
+int main() {}
+```
