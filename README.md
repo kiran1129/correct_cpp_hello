@@ -25,7 +25,7 @@ Feel free to just copy-paste this code to `main.cpp`:
 int main() {}
 ```
 
-Note the `///`, which indicates a [Doxygen](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDoxygen.md) [documentation](https://github.com/kiran1129/cpp/blob/master/content/CppDocumentation.md) comment.
+Note the `///`, which indicates a [Doxygen](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDoxygen.md) [documentation](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDocumentation.md) comment.
 
 This is [how this course works](https://github.com/kiran1129/correct_cpp/blob/master/doc/how_this_course_works.md):
 
